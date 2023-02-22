@@ -1,5 +1,5 @@
 ### Hi there 👋
-## My name is Mercy Chelang'at, a frontend web developer and a python programmer
+## My name is Mercy Chelang'at, a frontend web developer
 <!--
 **perez254/perez254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
